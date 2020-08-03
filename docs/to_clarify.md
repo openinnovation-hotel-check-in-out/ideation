@@ -4,6 +4,11 @@
 
 1. As mentioned under "Context" that "hotels... have tried different digital check-in solutions to limited success", are you able to show us exactly what are some of the solutions that have been tried and in which aspects are they lacking? Having these references would help us to come up with a better solution.
 
+<<<<<<< HEAD
+=======
+1. Are there systems depending on the existing check-in/out system? If so, what are the APIs used to communicate between these systems? Will documentation & assistance be provided if we face certain issues interfacing with these systems?
+
+>>>>>>> 18fedd5... Update to_clarify.md
 1. Can you run through with us the current check-in/out process? This will help us have a better understanding of the pain points experienced when using the existing solution.
 
 1. Stated under the section "Problem Statement" that the solution must be "safe and secured to protect guests' privacy". What exactly does this requirement mean, for example, are there certain security standards that the solution must adhere to?
