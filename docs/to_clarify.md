@@ -18,7 +18,7 @@
 
 1. Stated under the section "Possible Use Cases" that the solution should "begin their check-in journey before arrival and complete it upon arrival".
 
-    a. What needs to be done during the digital checking-in process? Are there any particular details/ workflow where it must be adhered to provide a check-in process?
+    What needs to be done during the digital checking-in process? Is there any of the hidden/back-end process must be adhered to provide a seamless and contact-less check-in process?
 
     b. Which part of the process can guests complete up to before arrival, and what else do they need to do to complete the check-in process upon arrival?
 
