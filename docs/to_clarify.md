@@ -6,7 +6,7 @@
 
 1. As mentioned under "Context" that "hotels... have tried different digital check-in solutions to limited success", are you able to show us exactly what are some of the solutions that have been tried and in which aspects are they lacking? Having these references would help us to come up with a better solution.
 
-1. Are there systems depending on the existing check-in/out system? If so, what are the APIs used to communicate between these systems? If there is documentation of these systems, it would be easier for integration.
+1. Are there systems depending on the existing check-in/out system? If so, what are the APIs used to communicate between these systems? 
 
 1. Can you run through with us the current check-in/out process? This will help us have a better understanding of the pain points experienced when using the existing solution.
 
@@ -24,20 +24,10 @@
 
     c. On the same note, what needs to be done during the checking-out process?
 
-    d. I would like to confirm the current traditional workflow of the check-in process.(Please fill me in if i got the procedure wrong)
-    Guest - Provide personal particulars, Photos of Passport/Identity Card, Booking Documents.?
-    
-    Front Desk staffs - Receiving the guest and collect relevant documents from guest. Do verification and give out hotels access card. Guide Guest to their room.
-
-
 1. Stated under the section "What Are We Looking For" that the solution should "verify travel and identification documents, booking documents, payment details, and make payment upon check-out, integrated with ICA (or other government stipulated system) for authentication and verification".
 
     a. Which government stipulated system is currently being used, and does the existing system provide API for our solution to communicate with it?
 
     b. Can we have several different samples of the above documents and the details of what are being verified for these documents?
-
-    c. What is the current architecture: Microservices or Monolith? 
-
-    d. How does the systems communicate with each other: REST API, SOAP, gRPC?
 
 1. Stated under the section "What Are We Looking For" that the solution should "streamline the back-end allocation of rooms by ensuring room requests are clearly accounted for on the back-end, to ensure rooms and amenities are available upon guest arrival". Is this currently being done, and if so, how is it being done?
