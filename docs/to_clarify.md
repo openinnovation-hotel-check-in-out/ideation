@@ -4,11 +4,10 @@
 
 1. As mentioned under "Context" that "hotels... have tried different digital check-in solutions to limited success", are you able to show us exactly what are some of the solutions that have been tried and in which aspects are they lacking? Having these references would help us to come up with a better solution.
 
-<<<<<<< HEAD
-=======
 1. Are there systems depending on the existing check-in/out system? If so, what are the APIs used to communicate between these systems? Will documentation & assistance be provided if we face certain issues interfacing with these systems?
 
->>>>>>> 18fedd5... Update to_clarify.md
+1. If there is a need in additional API which is not provided by the existing systems, will they be assistance for us to create the additional APis? Or is there a possiblity where we inherit the codebase and implement the API on our own?
+
 1. Can you run through with us the current check-in/out process? This will help us have a better understanding of the pain points experienced when using the existing solution.
 
 1. Stated under the section "Problem Statement" that the solution must be "safe and secured to protect guests' privacy". What exactly does this requirement mean, for example, are there certain security standards that the solution must adhere to?
@@ -29,7 +28,7 @@
 
 1. Stated under the section "Possible Use Cases" that the solution should "begin their check-in journey before arrival and complete it upon arrival".
 
-    What needs to be done during the digital checking-in process? Is there any of the hidden/back-end process must be adhered to provide a seamless and contact-less check-in process?
+    a. What needs to be done during the digital checking-in process? Is there any of the hidden/back-end process must be adhered to provide a seamless and contact-less check-in process?
 
     b. Which part of the process can guests complete up to before arrival, and what else do they need to do to complete the check-in process upon arrival?
 
@@ -42,3 +41,20 @@
     b. Can we have several different samples of the above documents and the details of what are being verified for these documents?
 
 1. Stated under the section "What Are We Looking For" that the solution should "streamline the back-end allocation of rooms by ensuring room requests are clearly accounted for on the back-end, to ensure rooms and amenities are available upon guest arrival". Is this currently being done, and if so, how is it being done?
+
+1. Stated under the section "What Are We Looking For" that the solution should 
+""
+### Links For Check in Check Out Technology:
+
+1. Canary Technologies https://www.canarytechnologies.com/
+1. ASSA ABLOY Global Solutions https://campaigns.assaabloyglobalsolutions.com/en-contactlesshospitality?gclid=Cj0KCQjwvIT5BRCqARIsAAwwD-SnuK5vsGg0NV51zFu1nK6_9NoX3RtJ3jriKu83d5TcsTKeY6a0rfAaAsY9EALw_wcB
+1. INTELITY https://intelity.com/
+
+### For Digital concierge Technology:
+1. ALICE  https://www.aliceplatform.com/
+1. Crave https://crave-emenu.com/hotel-tablets/
+1. SuitePad https://www.suitepad.de/en/
+1. Volo https://www.getvolo.com/
+1. Whistle https://www.trywhistle.com/
+1. Bookboost https://www.bookboost.io/
+1. Volara https://volara.io/
