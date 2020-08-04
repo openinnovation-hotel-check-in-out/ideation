@@ -39,11 +39,29 @@
     a. Which government stipulated system is currently being used, and does the existing system provide API for our solution to communicate with it?
 
     b. Can we have several different samples of the above documents and the details of what are being verified for these documents?
+    
+    c. Are we supposed to inherit the current codebase and integrate or Build a new system from scratch?
+    
+    d.If inheriting their codebase, please provide us the architecture knowledge so that we can write the code in consistent manner.
+
+    e. Deployment related: 
+    1. Front-end: Are we supposed to host the app on app store? Or do we need an app, or just web will do?
+    2. Back-end: Do we have to deploy the servers on our own? Or do we write the code and the system admins deploy for us?
+
+    f. Techstack related:
+    1. Any preferred frameworks?
+
+
 
 1. Stated under the section "What Are We Looking For" that the solution should "streamline the back-end allocation of rooms by ensuring room requests are clearly accounted for on the back-end, to ensure rooms and amenities are available upon guest arrival". Is this currently being done, and if so, how is it being done?
 
-1. Stated under the section "What Are We Looking For" that the solution should 
-""
+### Digital Concierge Questions, If Unanswered
+1. Can you run through with us the current digital concierge process? Please do share with us on the idea how you want it to be integrated. This will help us have a better understanding of the pain points experienced when using the existing solution.
+
+1. We have looked up some certain latest existing solutions on HotelTechReport. Here is some of the existing solutions that i have narrowed down.
+
+
+
 ### Links For Check in Check Out Technology:
 
 1. Canary Technologies https://www.canarytechnologies.com/
