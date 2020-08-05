@@ -26,6 +26,10 @@
 
 1. Stated under the section "Problem Statement" that the solution must be "safe and secured to protect guests' privacy". What exactly does this requirement mean, for example, are there certain security standards that the solution must adhere to?
 
+### Deliverable
+
+1. Is there a sample proposal that we can reference? This will be helpful in guiding us on what we should include in our proposal and how to best structure it. If not, can we have a list of requirements that we must particularly address, perhaps for example, the tech stack of the solution?
+
 ### Check-in/out Questions, If Unanswered
 
 1. Stated under the section "Possible Use Cases" that the solution should "begin their check-in journey before arrival and complete it upon arrival".
