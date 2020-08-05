@@ -16,9 +16,7 @@
 
 1. What are the "existing solutions and databases" that we need to integrate with as mentioned in Point 2 of "Possible Use Cases"?
 
-1. Stated under the section "Possible Use Cases" that the solution should "allow data transference capabilities, from room requests collected on the booking engine, to the check-in process till checkout".
-
-    Does this mean that the "digital mobile check-in and check-out solution" is expected to do more than digitising the checking-in and checking-out processes; it has to integrate with other platforms to provide other additional services, beginning from the booking of hotel rooms till checkout?
+1. Stated under the section "Possible Use Cases" that the solution should "allow data transference capabilities, from room requests collected on the booking engine, to the check-in process till checkout". Does this mean that the "digital mobile check-in and check-out solution" is expected to do more than digitising the checking-in and checking-out processes; it has to integrate with other platforms to provide other additional services, beginning from the booking of hotel rooms till checkout?
 
 1. Are there systems depending on the existing check-in/out system? If so, what are the APIs used to communicate between these systems?
 
