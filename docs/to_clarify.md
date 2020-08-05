@@ -4,7 +4,7 @@
 
 1. As mentioned under "Context" that "hotels... have tried different digital check-in solutions to limited success", are you able to show us exactly what are some of the solutions that have been tried and in which aspects are they lacking? Having these references would help us to come up with a better solution.
 
-1. Can you run through with us the current check-in/out process? This will help us have a better understanding of the pain points experienced when using the existing solution.
+1. Can we arrange a timeslot for my team to physically or digitally go through the current check-in/out process? This will help us have a better understanding of the pain points experienced when using the existing solution.
 
 1. Stated under the section "Possible Use Cases" that the solution should "enhance back-end operational capabilities and business intelligence" which will be used to "create accurate guest profiles and provide personalized and targeted guest experiences". In what manner is the solution expected to do this?
 
