@@ -6,7 +6,11 @@
 
 1. Can we arrange a timeslot for my team to physically or digitally go through the current check-in/out process? This will help us have a better understanding of the pain points experienced when using the existing solution.
 
-1. Stated under the section "Possible Use Cases" that the solution should "enhance back-end operational capabilities and business intelligence" which will be used to "create accurate guest profiles and provide personalized and targeted guest experiences". In what manner is the solution expected to do this?
+1. Stated under the section "Possible Use Cases" that the solution should "enhance back-end operational capabilities and business intelligence by integrating with existing solutions and databases", which will be used to "create accurate guest profiles and provide personalized and targeted guest experiences".
+
+    a. Is the inability problem simply due to lack of integration across systems, and so the solution would "enhance back-end operational capabilities and business intelligence" by simply "integrating with existing solutions and databases"?
+
+    b. Does the solution contain capabilities to "create accurate guest profiles", or is that out of the scope?
 
 ### Integration
 
